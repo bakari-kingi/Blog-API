@@ -1,0 +1,2 @@
+A Blog API using the full set of Django REST Framework features with Custom User Model, User Authentication permissions, full CRUD (Create-Read-Update-Delete)
+functionality and a dynamic schema.
